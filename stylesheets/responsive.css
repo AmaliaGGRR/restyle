@@ -1,0 +1,74 @@
+
+
+@media screen and (max-width: 414px) {
+    .kkkrug{
+        display: block;
+    }
+    .kkrug{
+        display: none;
+        
+    }
+}
+
+
+
+@media screen and (max-width: 1366px) {
+   
+    .pugg{
+      
+        width: 100vw;
+        height: 30vw;
+        
+       
+    }
+    .pug{
+     height: 30vw;
+     
+     margin-left: 5%;
+     
+     margin-left: 2%;
+    }
+ }
+
+
+ @media screen and (max-width: 414px) {
+    .pug{
+        display: none;
+       }
+       .pugg{
+        width: 100vw;
+        height: 22vw;
+       
+       }
+       .pugmobile{
+        display: block;
+        height: 20vw ;
+
+       }
+
+       .green{
+        position: relative;
+        margin-top: 49%;
+       }
+}
+
+
+@media screen and (max-width: 1024px) {
+   
+    .pugg{
+      
+        width: 100vw;
+        height: 23vw;
+        
+       
+    }
+    .pug{
+     height: 28vw;
+     
+     margin-left: 5%;
+     
+     margin-left: 2%;
+    }
+ }
+ 
+ 
